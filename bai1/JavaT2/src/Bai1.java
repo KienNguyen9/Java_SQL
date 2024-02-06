@@ -8,5 +8,18 @@
  * @author ADMIN
  */
 public class Bai1 {
-    
+    public static void main(String[] args) {
+        // Khai báo các biến
+        int a = 100;
+        long b = 12345678910L;
+        float PI = 3.14F;
+        double d = 1.2345678910D;
+        boolean checker = true;
+        //In các biến vừa khai báo ra màn hình
+        System.out.println(a);
+        System.out.println(b);
+        // Phím tắt "sout+tab"
+        System.out.println(PI);
+        System.out.println("Understanded");
+    }
 }
